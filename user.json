@@ -1,0 +1,91 @@
+{
+    "users": [
+        {
+            "nama": "admin",
+            "username": "admin",
+            "password": "111",
+            "role": "admin"
+        },
+        {
+            "nama": "Muhammad Dzaky Irawan",
+            "username": "jaki",
+            "password": "123",
+            "role": "user",
+            "pin_wallet": 123123,
+            "nomor_wallet": 1002,
+            "saldo_wallet": 710000
+        },
+        {
+            "nama": "Esra Fernanda Siregar",
+            "username": "regar",
+            "password": "111",
+            "role": "user",
+            "pin_wallet": 123123,
+            "nomor_wallet": 1001,
+            "saldo_wallet": 285000
+        },
+        {
+            "nama": "HeroAhmad",
+            "username": "HERO",
+            "password": "123",
+            "role": "user",
+            "pin_wallet": 111111,
+            "nomor_wallet": 1004,
+            "saldo_wallet": 0
+        },
+        {
+            "nama": "Aidil 40",
+            "username": "Amir",
+            "password": "222",
+            "role": "user",
+            "pin_wallet": 321123,
+            "nomor_wallet": 1006,
+            "saldo_wallet": 0
+        },
+        {
+            "nama": "Alisa",
+            "username": "lilis",
+            "password": "1",
+            "role": "user",
+            "pin_wallet": 213123,
+            "nomor_wallet": 1007,
+            "saldo_wallet": 0
+        },
+        {
+            "nama": "Diva A nya 3",
+            "username": "diva",
+            "password": "2",
+            "role": "user",
+            "pin_wallet": 222222,
+            "nomor_wallet": 1008,
+            "saldo_wallet": 0
+        },
+        {
+            "nama": "Hisyam Chan",
+            "username": "hisam",
+            "password": "111",
+            "role": "user",
+            "pin_wallet": 232323,
+            "nomor_wallet": 1009,
+            "saldo_wallet": 100000
+        },
+        {
+            "nama": "Reyfaldho",
+            "username": "arey",
+            "password": "321",
+            "role": "user",
+            "pin_wallet": 444555,
+            "nomor_wallet": 1010,
+            "saldo_wallet": 0
+        },
+        {
+            "nama": "awan",
+            "username": "irwan",
+            "password": "123",
+            "role": "user",
+            "pin_wallet": 123456,
+            "nomor_wallet": 1011,
+            "saldo_wallet": 0
+        }
+    ]
+}

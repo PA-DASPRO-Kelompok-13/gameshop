@@ -1,0 +1,68 @@
+{
+    "game": [
+        {
+            "ID": "01",
+            "nama_game": "GTA V",
+            "developer": "Rockstar",
+            "tahun_rilis": "2011",
+            "versi_game": 10.7,
+            "harga_game": 500000
+        },
+        {
+            "ID": "02",
+            "nama_game": "RDR 2",
+            "developer": "Rockstar",
+            "tahun_rilis": "2014",
+            "versi_game": 8.7,
+            "harga_game": 450000
+        },
+        {
+            "ID": "03",
+            "nama_game": "Counter Strike 2",
+            "developer": "Valve",
+            "tahun_rilis": "2011",
+            "versi_game": 1.1,
+            "harga_game": 0
+        },
+        {
+            "ID": "04",
+            "nama_game": "Solitaire",
+            "developer": "Valve",
+            "tahun_rilis": "2007",
+            "versi_game": 12.1,
+            "harga_game": 0
+        },
+        {
+            "ID": "05",
+            "nama_game": "Chess League",
+            "developer": "Valve",
+            "tahun_rilis": "2011",
+            "versi_game": 8.1,
+            "harga_game": 0
+        },
+        {
+            "ID": "07",
+            "nama_game": "Terraria",
+            "developer": "Ubisoft",
+            "tahun_rilis": "2009",
+            "versi_game": 12.2,
+            "harga_game": 25000
+        },
+        {
+            "ID": "08",
+            "nama_game": "FIFA",
+            "developer": "EA",
+            "tahun_rilis": "2021",
+            "versi_game": 1.7,
+            "harga_game": 200000
+        },
+        {
+            "ID": "09",
+            "nama_game": "Dota 2",
+            "developer": "Valve",
+            "tahun_rilis": "2013",
+            "versi_game": 9.6,
+            "harga_game": 0
+        }
+    ]
+}
