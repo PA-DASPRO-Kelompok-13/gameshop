@@ -22,7 +22,7 @@ from prettytable import PrettyTable
 ```
 ## Struktur Program
 
-![FLOWCHART SISTEM PEMBELIAN GAME ONLINE-Page-1 drawio](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/dd57b479-9fb8-400c-a374-15b44c93bc9e)
+![FLOWCHART SISTEM PEMBELIAN GAME ONLINE-Page-1 drawio](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/feda8ef3-6ab4-4eea-a2bc-c98c57001a8f)
 
 
 ## Fungsi Utama Program
