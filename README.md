@@ -2,6 +2,10 @@
 
 GameShop adalah sebuah sistem untuk membeli dan bermain game online. Aplikasi ini memungkinkan pengguna untuk membeli game, melakukan top-up saldo, dan juga memungkinkan admin untuk mengelola game dan pengguna. Program ini dibangun menggunakan bahasa pemrograman Python dan memanfaatkan beberapa modul&library.
 
+## Kelompok 13
+- Esra Fernanda Siregar (2309116049)
+- Muhammad Dzaky Irawan (2309116031)
+- Nurul Hafizah (2309116044)
 
 ## Module & Library
 1. `import os`: Digunakan untuk berinteraksi dengan sistem operasi.
@@ -59,3 +63,24 @@ Program GameShop memiliki beberapa fungsi utama, di antaranya:
   - Mengedit game: Admin dapat mengedit informasi game yang ada.
   - Menghapus game: Admin dapat menghapus game dari sistem.
   - Mengelola pengguna/admin/game : Admin dapat melihat, menambahkan, mengedit, dan menghapus data pengguna, admin dan game
+ 
+## Screenshot Program
+ 
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/140051a1-b44c-435e-ad7e-f77f420e0269)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/bf18033c-a511-45b5-b2c8-5413db903816)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/2d917aa6-fa81-43fb-b781-66f84a511f09)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/f23607e0-cacc-42cb-881b-784d9b33af93)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/356b145a-59a1-4d7e-b6fc-c0a47cb2b70f)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/73781a8c-631c-4765-82c3-22786617fa5a)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/a21aafc0-7561-42e8-9d91-f915be74b850)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/7f33f213-0237-4436-b78e-0b9302029fae)
+
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/9202f437-c0a4-4ff2-b77f-8302c3978c73)
+
