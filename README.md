@@ -27,6 +27,11 @@ from prettytable import PrettyTable
 ## Struktur Program
 
 ![FLOWCHART SISTEM PEMBELIAN GAME ONLINE-Page-1 drawio](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/feda8ef3-6ab4-4eea-a2bc-c98c57001a8f)
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/bac40e6f-67fb-4bfd-a0ca-1ccdd292f51c)
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/05efcb42-d4b1-420c-a3e7-b338cf7af006)
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/fff091a2-5999-435a-bbca-e26416e22dda)
+![image](https://github.com/PA-DASPRO-Kelompok-13/gameshop/assets/144348757/d17e820c-0640-47d1-a856-7dd53869c0f1)
+
 
 
 ## Fungsi Utama Program
